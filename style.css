@@ -12,8 +12,8 @@
 }
 
 .btn-color:hover {
-    color: black;
-    background-color: #ff4790;
+    color: black !important;
+    background-color: #ff4790 !important;
     border: none;
     font-weight: 400;
 }
