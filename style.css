@@ -1,0 +1,19 @@
+.bg-color {
+    background-color: #fceae8;
+}
+
+.btn-color {
+    background-color: #ff4790;
+    color: white;
+}
+
+.img img {
+    width: 75%;
+}
+
+.btn-color:hover {
+    color: black;
+    background-color: #ff4790;
+    border: none;
+    font-weight: 400;
+}
